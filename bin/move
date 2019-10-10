@@ -4,4 +4,4 @@ require_relative '../lib/move.rb'
 
 # Code your CLI Here
 
-board = Array.[](9, " ")
+board = Array.new(9, " ")
