@@ -20,4 +20,4 @@ def move(array, index, value = "X")
   
 end
 
-board = Array.[]()
+board = Array.[](9, " ")
