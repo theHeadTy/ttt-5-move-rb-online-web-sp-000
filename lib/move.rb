@@ -14,7 +14,7 @@ def input_to_index(user_input)
 
 end
 
-def move(array = Array.[](9, " "), index, value = "X")
+def move(array = Array.new(9, " "), index, value = "X")
   
   array[index] = value
   
