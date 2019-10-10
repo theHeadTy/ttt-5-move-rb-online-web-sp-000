@@ -16,5 +16,6 @@ end
 
 def move(array, index, value = "X")
   
+  array.at(idnex)
   
 end
